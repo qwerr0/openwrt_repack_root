@@ -1,0 +1,10 @@
+sysupgrade-*/
+sysupgrade-*/*
+*-squashfs-nand-sysupgrade.bin
+*-squashfs-nand-sysupgrade-mod.bin
+root
+squashfs-*/
+squashfs-*/*
+*.tar
+bakup
+bakup/*
